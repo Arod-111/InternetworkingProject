@@ -1,0 +1,8 @@
+exe
+scr
+pdf
+bs
+rvfs
+doc
+xls
+.png
